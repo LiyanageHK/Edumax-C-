@@ -1,1 +1,1 @@
-# Edumax-C-
+# Edumax-LMS

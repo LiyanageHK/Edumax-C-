@@ -1,0 +1,13 @@
+D:\DiTEC Project\Project\Project\bin\Debug\Project.exe.config
+D:\DiTEC Project\Project\Project\bin\Debug\Project.exe
+D:\DiTEC Project\Project\Project\bin\Debug\Project.pdb
+D:\DiTEC Project\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+D:\DiTEC Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+D:\DiTEC Project\Project\Project\obj\Debug\Project.Properties.Resources.resources
+D:\DiTEC Project\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+D:\DiTEC Project\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\DiTEC Project\Project\Project\obj\Debug\Project.exe
+D:\DiTEC Project\Project\Project\obj\Debug\Project.pdb
+D:\DiTEC Project\Project\Project\obj\Debug\Project.Login.resources
+D:\DiTEC Project\Project\Project\obj\Debug\Project.Registration.resources
+D:\DiTEC Project\Project\Project\obj\Debug\Project.Course.resources
